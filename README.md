@@ -1,1 +1,1 @@
-# Basic_Codes
+In this programme we have created a Menu driven array where we are providing the user options so that he/she can create a new array, print it, inserting elements at the desired position or deleting any element at a specific position. All the inputs are given by the user so  the control is in his/her hands.
